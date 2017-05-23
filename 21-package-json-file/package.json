@@ -1,0 +1,21 @@
+{
+  "name": "21-package-json-file",
+  "version": "1.0.0",
+  "description": "Creating a package.json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "json",
+    "npm",
+    "learning",
+    "node"
+  ],
+  "author": "Daksh Shah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
